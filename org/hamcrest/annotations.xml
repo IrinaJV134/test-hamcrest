@@ -1,0 +1,7 @@
+<root>
+    <item name='org.hamcrest.Matchers org.hamcrest.Matcher&lt;java.util.Collection&lt;? extends E&gt;&gt; empty()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;-&gt;new&quot;"/>
+        </annotation>
+    </item>
+</root>
